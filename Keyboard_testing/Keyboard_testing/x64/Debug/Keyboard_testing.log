@@ -1,0 +1,6 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Keyboard_testing\Keyboard_testing\Form1.h(631,59): error C2039: 'Form1_Load': is not a member of 'CppCLRWinFormsProject::Form1'
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Keyboard_testing\Keyboard_testing\Form1.h(22): message : see declaration of 'CppCLRWinFormsProject::Form1'
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Keyboard_testing\Keyboard_testing\Form1.h(631,1): error C2065: 'Form1_Load': undeclared identifier
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Keyboard_testing\Keyboard_testing\Form1.h(631,1): error C3924: error in argument #2 of delegate constructor call 'System::EventHandler':
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Keyboard_testing\Keyboard_testing\Form1.h(631,1): message : pointer to member function expected
