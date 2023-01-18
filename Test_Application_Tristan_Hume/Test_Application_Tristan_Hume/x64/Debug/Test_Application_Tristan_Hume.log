@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application_Tristan_Hume\Test_Application_Tristan_Hume\constants.h(15,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application_Tristan_Hume\Test_Application_Tristan_Hume\constants.h(26,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application_Tristan_Hume\Test_Application_Tristan_Hume\main.cpp(111,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application_Tristan_Hume\Test_Application_Tristan_Hume\main.cpp(112,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application_Tristan_Hume\Test_Application_Tristan_Hume\main.cpp(113,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application_Tristan_Hume\Test_Application_Tristan_Hume\main.cpp(114,39): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application_Tristan_Hume\Test_Application_Tristan_Hume\main.cpp(116,59): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  Test_Application_Tristan_Hume.vcxproj -> C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application_Tristan_Hume\x64\Debug\Test_Application_Tristan_Hume.exe
