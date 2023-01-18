@@ -1,0 +1,72 @@
+﻿  EyebrowDetectionAlgorithm.cpp
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm.cpp(64,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm.cpp(65,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm.cpp(91,21): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm.cpp(164,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm.cpp(174,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm.cpp(176,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm.cpp(193,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm.cpp(203,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm.cpp(204,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm.cpp(268,39): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm.cpp(277,21): warning C4244: '=': conversion from '_Ty' to '_Tp', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm.cpp(287,33): warning C4244: '=': conversion from '_Ty' to '_Tp', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm.cpp(443,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm.cpp(444,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm.cpp(445,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm.cpp(446,41): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm.cpp(447,61): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm.cpp(547,119): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm.cpp(547,67): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm.cpp(547,27): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm.cpp(569,24): warning C4244: 'initializing': conversion from 'double' to 'uchar', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm.cpp(570,18): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm.cpp(638,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm.cpp(643,31): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm.cpp(647,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm\EyebrowDetectionAlgorithm.cpp(651,33): warning C4305: '=': truncation from 'double' to 'float'
+  EyebrowDetectionAlgorithm.vcxproj -> C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\EyebrowDetectionAlgorithm\x64\Debug\EyebrowDetectionAlgorithm.exe
