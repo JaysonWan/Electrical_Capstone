@@ -1,0 +1,204 @@
+﻿  Test_Application.cpp
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(30,61): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(42,36): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(43,36): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(45,38): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(46,38): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(51,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(61,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(62,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(94,22): warning C4244: 'initializing': conversion from 'double' to 'uchar', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(95,16): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(102,22): warning C4244: 'initializing': conversion from 'double' to 'uchar', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(103,16): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(218,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(223,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(227,28): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(231,31): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(268,43): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(269,42): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(300,124): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(300,68): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(307,64): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(317,127): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(317,68): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(324,63): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(335,83): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(335,49): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(354,44): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(355,43): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(386,130): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(386,71): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(393,67): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(403,133): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(403,71): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(410,66): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(421,88): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(421,52): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(475,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(476,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(502,21): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(575,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(585,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(587,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(604,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(614,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(615,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(679,39): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(688,21): warning C4244: '=': conversion from '_Ty' to '_Tp', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(698,33): warning C4244: '=': conversion from '_Ty' to '_Tp', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(886,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(887,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(888,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(889,41): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(890,61): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\Test_Application\Test_Application.cpp(981,13): warning C4102: 'Recalibrate2': unreferenced label
+  Test_Application.vcxproj -> C:\Users\Nicholas Ierfino\Desktop\University\Semester 4A (uOttawa)\ELG 4912\Extra\Test_Application\x64\Debug\Test_Application.exe
