@@ -1,0 +1,215 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(62,62): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(74,37): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(75,37): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(77,39): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(78,39): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(83,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(93,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(94,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(128,23): warning C4244: 'initializing': conversion from 'double' to 'uchar', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(129,17): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(136,23): warning C4244: 'initializing': conversion from 'double' to 'uchar', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(137,17): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(252,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(257,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(261,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(265,32): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(302,44): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(303,43): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(334,125): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(334,69): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(341,65): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(351,128): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(351,69): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(358,64): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(369,88): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(369,54): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(388,45): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(389,44): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(420,131): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(420,72): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(427,68): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(437,134): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(437,72): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(444,67): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(455,93): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(455,57): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(509,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(510,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(536,22): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(610,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(620,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(622,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(639,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(649,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(650,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(714,40): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(723,22): warning C4244: '=': conversion from '_Ty' to '_Tp', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(733,34): warning C4244: '=': conversion from '_Ty' to '_Tp', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(1730,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(1731,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(1732,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(1733,43): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(1734,63): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\Form1.h(1827,1): warning C4102: 'Recalibrate2': unreferenced label
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(542): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(862): warning C4793: 'cv::Mat::release': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(2201): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(3804): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\opencv\build\include\opencv2\core\mat.inl.hpp(760): warning C4793: 'cv::Mat::operator=': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Keyboard_testing.vcxproj -> C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\x64\Debug\Keyboard_testing.exe

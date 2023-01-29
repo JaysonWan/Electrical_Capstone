@@ -1,0 +1,14 @@
+C:\Users\liamv\source\repos\Keyboard_testing\Keyboard_testing\x64\Debug\Keyboard_testing.vcxproj.AssemblyReference.cache
+C:\Users\liamv\source\repos\Keyboard_testing\Keyboard_testing\x64\Debug\Keyboard_testing.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\liamv\source\repos\Keyboard_testing\Keyboard_testing\x64\Debug\Keyboard_testing.MyForm.resources
+C:\Users\liamv\source\repos\Keyboard_testing\Keyboard_testing\x64\Debug\Keyboard_testing.vcxproj.GenerateResource.cache
+C:\Users\liamv\source\repos\Keyboard_testing\Keyboard_testing\x64\Debug\Keyboard_testing.Form1.resources
+C:\Users\jason\Downloads\Keyboard_testing\Keyboard_testing\Keyboard_testing\x64\Debug\Keyboard_testing.vcxproj.AssemblyReference.cache
+C:\Users\jason\Downloads\Keyboard_testing\Keyboard_testing\Keyboard_testing\x64\Debug\Keyboard_testing.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\jason\Downloads\Keyboard_testing\Keyboard_testing\Keyboard_testing\x64\Debug\Keyboard_testing.Form1.resources
+C:\Users\jason\Downloads\Keyboard_testing\Keyboard_testing\Keyboard_testing\x64\Debug\Keyboard_testing.MyForm.resources
+C:\Users\jason\Downloads\Keyboard_testing\Keyboard_testing\Keyboard_testing\x64\Debug\Keyboard_testing.vcxproj.GenerateResource.cache
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\x64\Debug\Keyboard_testing.vcxproj.AssemblyReference.cache
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\x64\Debug\Keyboard_testing.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\x64\Debug\Keyboard_testing.Form1.resources
+C:\Users\Nicholas Ierfino\Desktop\Keyboard_testing\Keyboard_testing\Keyboard_testing\x64\Debug\Keyboard_testing.vcxproj.GenerateResource.cache
